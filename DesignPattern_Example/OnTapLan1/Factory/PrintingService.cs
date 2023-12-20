@@ -11,6 +11,4 @@ namespace DesignPattern_Example.OnTapLan1.Factory
             return $"Pages: {Pages} * PricePerPage: {PricePerPage}";
         }
     }
-    {
-    }
 }

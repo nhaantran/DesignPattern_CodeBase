@@ -1,9 +1,9 @@
 ﻿
+
+public enum Title
 {
-    public enum Title
-    {
-        TOT,
-        XuatXacNamHoc,
-        CongHien
-    }
+    TOT,
+    XuatXacNamHoc,
+    CongHien
 }
+
